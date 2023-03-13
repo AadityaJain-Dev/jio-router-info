@@ -1,8 +1,13 @@
 # Jio Router Paths
 
 
-- After login, you can use the `JS code` to get to that page. 
-- Accessing that page directly with URL will get you 401 error because of the missing cookie in HTTP header
+- After login, you can use the `JS code` to get to that page. (Just open the console inside `Dev Tools` and paste the JS code & press `Enter` key to execute the code)
+- Accessing that page directly with URL will get you 401 error because of the missing cookie in HTTP header.
+- I have extracted these path from the router admin interface `Firmware Version: SRCMTF1_JCOW414_R2.41`.
+- Some of these pages are not available in the menu but are required for advanced users to customise the router settings.
+
+
+
 
 | Main Menu | Page Name / Second Level Menu | Disabled | Page URL | Breadcrumb | JS code |
 | ------ | ------ | ------ | ------ | ------ | ------ |
