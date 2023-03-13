@@ -1,4 +1,4 @@
-# Jio Router Paths
+# Jio Fiber Home Router Paths
 
 
 - After login, you can use the `JS code` to get to that page. (Just open the console inside `Dev Tools` and paste the JS code & press `Enter` key to execute the code)
